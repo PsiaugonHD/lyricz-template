@@ -1,5 +1,5 @@
 {
-    "lyric": "Lorem ipsum dolor sit amet,\nconsetetur sadipscing elitr",
+    "lyric": ["Lorem ipsum dolor sit amet,\nconsetetur sadipscing elitr", "Lorem ipsum dolor sit amet,\nconsetetur sadipscing elitr"],
     "songName": "Lorem ipsum",
     "artistName": "TestArtist",
     "spotifyLink": "paste your link here"
